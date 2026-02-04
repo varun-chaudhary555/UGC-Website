@@ -74,7 +74,7 @@ import Archivespublication from "./pages/Archivespublication";
 import Fakeotherdetails from "./pages/Fakeotherdetails";
 import Collegesreadmore from "./pages/Collegesreadmore";
 import Studentcornerbutton from "./pages/Studentcornerbutton";
-import Fellowships from "./pages/fellowships";
+import Fellowships from "./pages/Fellowships";
 import Scholarships from "./pages/Scholarships";
 import Helpline from "./pages/Helpline";
 import Facultycornerbutton from "./pages/Facultycornerbutton";
